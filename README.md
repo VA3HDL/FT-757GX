@@ -1,3 +1,3 @@
 # FT-757GX
 FT-757GX CAT Configuration for Log4OM
-![CAT Configuration](Log4OM CAT FT-757GX.png)
+![CAT Configuration](/FT-757GX%2Fmain%2FLog4OM%20CAT%20FT-757GX.png)
